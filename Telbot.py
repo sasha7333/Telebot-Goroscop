@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import requests
 from bs4 import BeautifulSoup
-bot = telebot.TeleBot('5663894706:AAEVtYKzpS0FS6vnG4u41ooWJ3XDlp5EcDk')
+bot = telebot.TeleBot('')
 
 x = ['gemini', 'aries', 'taurus', 'cancer', 'leo', 'virgo', 'libra', 'scorpio', 'sagittarius', 'capricorn', 'aquarius', 'pisces']
 content = []
